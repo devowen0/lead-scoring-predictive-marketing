@@ -1,0 +1,17 @@
+Hi [First Name],
+
+We hope you’re enjoying [Software Name]! Your experience matters to us, and we’d love your thoughts.
+
+Could you take a minute to answer a few quick questions?
+
+✅ What do you like most about [Software Name]?
+✅ Is there anything we could improve?
+✅ How likely are you to recommend it to a friend or colleague?
+
+👉 [Share Your Feedback]
+
+Your input helps us make [Software Name] even better — thank you for your time!
+
+Best,
+John Smith
+John Smith Company LLC
