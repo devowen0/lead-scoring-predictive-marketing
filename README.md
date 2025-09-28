@@ -16,16 +16,16 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 
 ## How to Run:
-# 1. Generate synthetic leads
+## 1. Generate synthetic leads
 python generate_random_data.py
 
-# 2. Analyze & score leads
+## 2. Analyze & score leads
 python analyze_data.py
 
-# 3. View campaign matches and send emails for a given date
+## 3. View campaign matches and send emails for a given date
 python message.py
 
-# 4. Generate PDF report
+## 4. Generate PDF report
 python pdf.py
 
 ## Concepts Demonstrated
